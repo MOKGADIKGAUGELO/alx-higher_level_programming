@@ -1,0 +1,3 @@
+#!/usr/bin/python3
+done = True
+print(isinstance(done,bool))
