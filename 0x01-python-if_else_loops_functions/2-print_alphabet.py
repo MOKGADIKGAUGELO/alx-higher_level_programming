@@ -1,2 +1,3 @@
 #!/usr/bin/python3
-print("abcdefghijklmnopqrstuvwxyz")
+ASCII_alphabet= "abcdefghijklmnopqrstuv"
+print("{}".format(ASCII_alphabet))
